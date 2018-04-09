@@ -1,2 +1,2 @@
-git hhhhh
-git is a small pig
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
